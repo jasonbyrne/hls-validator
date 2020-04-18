@@ -1,0 +1,26 @@
+{
+  "name": "hls-validator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonbyrne/hls-validator.git"
+  },
+  "author": "Jason Byrne <jason.byrne@flosports.tv>",
+  "bugs": {
+    "url": "https://github.com/jasonbyrne/hls-validator/issues"
+  },
+  "homepage": "https://github.com/jasonbyrne/hls-validator#readme",
+  "dependencies": {
+    "bent": "^7.3.0",
+    "hls-parser": "^0.6.0"
+  },
+  "devDependencies": {
+    "@types/bent": "^7.0.2",
+    "@types/hls-parser": "^0.5.1"
+  }
+}
